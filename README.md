@@ -17,6 +17,15 @@ To run the app on android:
 2. Install the app on the connected device `npx react-native run-android`;
 3. If needed, start the react-native server `yarn start`;
 
+## Running the back-end
+
+TO run the back-end:
+
+1. `cd src/backend`;
+2. `go run endpoint.go`;
+
+(Again, don't forget to set your IP address in the api file!)
+
 Any feedbacks are welcome. Enjoy! (carlos.l.telhada@gmail.com)
 # civi-test
 Test repository for the civi technical challenge
