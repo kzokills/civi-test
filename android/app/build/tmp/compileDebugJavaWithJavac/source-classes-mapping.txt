@@ -1,0 +1,14 @@
+com/civi/MainActivity.java
+ com.civi.MainActivity
+com/civi/MainApplication.java
+ com.civi.MainApplication
+ com.civi.MainApplication$1
+com/civi/BuildConfig.java
+ com.civi.BuildConfig
+com/civi/ReactNativeFlipper.java
+ com.civi.ReactNativeFlipper
+ com.civi.ReactNativeFlipper$1
+ com.civi.ReactNativeFlipper$2
+ com.civi.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
