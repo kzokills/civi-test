@@ -18,3 +18,5 @@ To run the app on android:
 3. If needed, start the react-native server `yarn start`;
 
 Any feedbacks are welcome. Enjoy! (carlos.l.telhada@gmail.com)
+# civi-test
+Test repository for the civi technical challenge
